@@ -4,7 +4,7 @@
 📢 **Paper ALERT**
 
 **MUTE: A Multimodal Dataset for Detecting Hateful Memes** (AACL-SRW 2022)    <br>
-[Eftekhar Hossain*](https://eftekhar-hossain.github.io/), [Omar Sharif*](https://omar-sharif03.github.io/), [Mohammed Moshiul Hoque](https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en)
+[Eftekhar Hossain](https://eftekhar-hossain.github.io/), [Omar Sharif](https://omar-sharif03.github.io/), [Mohammed Moshiul Hoque](https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en)
 
 👉 [[Paper](https://aclanthology.org/2022.aacl-srw.5/)] [[Dataset](https://drive.google.com/file/d/1ozTFUM7q27g7uckhPWUiQFwhROCiEUAc/view?usp=sharing)]
 
@@ -31,7 +31,7 @@ zip_ref.close()
 
  ## 🐧Related Papers
 - **Deciphering Hate: Identifying Hateful Memes and Their Targets** (arxiv) [[Paper](https://arxiv.org/abs/2403.10829)] [[Code]()]
-- **A Multimodal Framework to Detect Target Aware Aggression in Memes** (*EACL'24*) [[Paper](https://aclanthology.org/2024.eacl-long.153/)] [[Code]()]
+- **A Multimodal Framework to Detect Target Aware Aggression in Memes** (*EACL'24*) [[Paper](https://aclanthology.org/2024.eacl-long.153/)] [[Dataset](https://github.com/shawlyahsan/Bengali-Aggression-Memes)]
 - **Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection** (*EACL-SRW'24*) [[Paper](https://arxiv.org/abs/2402.09738)] [[Code](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes/tree/main/Align-Before-Attend%40EACL)]
 - **MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes** (*LREC'22*) [[Paper](https://aclanthology.org/2022.lrec-1.165/)] [[Code](https://github.com/eftekhar-hossain/MemoSen-LREC2022)]
 
