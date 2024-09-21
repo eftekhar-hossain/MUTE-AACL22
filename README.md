@@ -30,7 +30,7 @@ zip_ref.close()
 
 
  ## 🐧Related Papers
-- **Deciphering Hate: Identifying Hateful Memes and Their Targets** (arxiv) [[Paper](https://arxiv.org/abs/2403.10829)] [[Code]()]
+- **Deciphering Hate: Identifying Hateful Memes and Their Targets** (*ACL'24*) [[Paper](https://arxiv.org/abs/2403.10829)] [[Code]()]
 - **A Multimodal Framework to Detect Target Aware Aggression in Memes** (*EACL'24*) [[Paper](https://aclanthology.org/2024.eacl-long.153/)] [[Dataset](https://github.com/shawlyahsan/Bengali-Aggression-Memes)]
 - **Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection** (*EACL-SRW'24*) [[Paper](https://aclanthology.org/2024.eacl-srw.12/)] [[Code](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes/tree/main/Align-Before-Attend%40EACL)]
 - **MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes** (*LREC'22*) [[Paper](https://aclanthology.org/2022.lrec-1.165/)] [[Code](https://github.com/eftekhar-hossain/MemoSen-LREC2022)]
